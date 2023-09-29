@@ -1,0 +1,7 @@
+{
+  "name": "iconTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
